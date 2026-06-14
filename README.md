@@ -75,7 +75,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-👉 *(Add your deployed link here after deployment)*
+👉 https://diabetes-webapp.streamlit.app/
 
 ---
 
